@@ -15,18 +15,6 @@ I have <b>10+ years</b> of experience building scalable, reliable backend system
 
 <p>&nbsp;</p>
 
-## ⚡ GitHub Stats
-
-<div>
-    <img alt="DavidVasconcelos's Github Stats" height="160px" width="48%" src="https://github-readme-stats.vercel.app/api?username=DavidVasconcelos&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide_border=true">
-    <img alt="DavidVasconcelos's GitHub Streak" height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVasconcelos&theme=dracula&hide_border=true">
-</div>
-<div>
-    <img alt="Top Languages" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVasconcelos&layout=compact&langs_count=6&theme=dracula&count_private=true&hide_border=true" />
-</div>
-
-<p>&nbsp;</p>
-
 ## ⚡ Stack
 
 **Backend & Systems**
