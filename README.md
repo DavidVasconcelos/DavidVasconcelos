@@ -46,7 +46,7 @@ I'm David, a <b>Software Engineer</b> at <b>Thoughtworks</b>, based in <b>São P
 |---|---|
 | [reporting-api](https://github.com/DavidVasconcelos/reporting-api) | Spring Boot + Kotlin |
 | [spring-ai](https://github.com/DavidVasconcelos/spring-ai) | From Java Dev to AI Engineer: Spring AI Fast Track |
-| [spring-boot-kafka](https://github.com/DavidVasconcelos/spring-boot-kafka) | Spring Boot + Kafka in Kotlin |
+| [spring-security-6](https://github.com/DavidVasconcelos/spring-security-6) | Spring Security with JWT, OAuth2, OpenID Connect and Keycloak |
 | [spring-kubernetes-native](https://github.com/DavidVasconcelos/spring-kubernetes-native) | Spring on Kubernetes in Kotlin |
 | [spring-file-streaming](https://github.com/DavidVasconcelos/spring-file-streaming) | Sample of file streaming |
 | [nanoservices-aws](https://github.com/DavidVasconcelos/nanoservices-aws) | Nanoservices on AWS in JavaScript |
