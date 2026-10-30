@@ -52,4 +52,8 @@ I'm David, a <b>Software Engineer</b> at <b>Thoughtworks</b>, based in <b>São P
 | [nanoservices-aws](https://github.com/DavidVasconcelos/nanoservices-aws) | Nanoservices on AWS in JavaScript |
 
 #
-![Snake animation](https://github.com/DavidVasconcelos/DavidVasconcelos/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DavidVasconcelos/DavidVasconcelos/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DavidVasconcelos/DavidVasconcelos/raw/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://github.com/DavidVasconcelos/DavidVasconcelos/raw/output/github-contribution-grid-snake.svg">
+</picture>
