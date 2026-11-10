@@ -89,7 +89,7 @@ I have <b>10+ years</b> of experience building scalable, reliable backend system
 | [spring-ai](https://github.com/DavidVasconcelos/spring-ai) | From Java Dev to AI Engineer: Spring AI Fast Track |
 | [reporting-api](https://github.com/DavidVasconcelos/reporting-api) | Spring Boot + Kotlin |
 | [spring-security-6](https://github.com/DavidVasconcelos/spring-security-6) | Spring Security with JWT, OAuth2, OpenID Connect and Keycloak |
-| [spring-kubernetes-native](https://github.com/DavidVasconcelos/spring-kubernetes-native) | Spring on Kubernetes in Kotlin |
+| [claude-demo](https://github.com/DavidVasconcelos/claude-demo) | Claude code bootcamp |
 | [spring-file-streaming](https://github.com/DavidVasconcelos/spring-file-streaming) | Sample of file streaming |
 | [nanoservices-aws](https://github.com/DavidVasconcelos/nanoservices-aws) | Nanoservices on AWS in JavaScript |
 
